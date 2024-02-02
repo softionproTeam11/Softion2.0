@@ -110,7 +110,6 @@ function List() {
           <h2>Hola gerardo Olivares Aguilar</h2>
           <h1>jijija</h1>
           <h3>Asu mecha</h3>
-          <h1>Asu mecha 2.0o ahuevo maricon</h1>
         </div>
         
       </div>
