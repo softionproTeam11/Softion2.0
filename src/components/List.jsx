@@ -107,6 +107,7 @@ function List() {
           <div className=" w-[20%]"></div>
           <div className=" w-[25%]"></div>
           <h1>hola</h1>
+          <h2>Hola gerardo Olivares Aguilar</h2>
         </div>
         
       </div>
