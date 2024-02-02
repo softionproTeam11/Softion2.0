@@ -111,12 +111,7 @@ function List() {
           <h1>jijija</h1>
           <h3>Asu mecha</h3>
           <h3>aSUMECHA 3.0</h3>
-<<<<<<< HEAD
           <h3>Por que no me amas don cangrejo</h3>
-=======
-          <h4>4.0
-          </h4>
->>>>>>> 1f3a4a23eca017292af5aa8a47d4b5e6136fe93a
         </div>
         
       </div>
