@@ -106,10 +106,7 @@ function List() {
           <div className=" w-[20%] border-6 border-red-500"></div>
           <div className=" w-[20%]"></div>
           <div className=" w-[25%]"></div>
-          <h1>hola</h1>
-          <h2>Hola gerardo Olivares Aguilar</h2>
-          <h1>jijija</h1>
-          <h3>Asu mecha</h3>
+
         </div>
         
       </div>
